@@ -44,7 +44,7 @@ THEN I should have proper build scripts for a webpack application
 In this project I was largely assisted by my instructor, Gary Almes.
 
 ## Deployment
-I was able to deploy this project using Heroku. Please feel free to find my website [here](https://pwa-notetaker.herokuapp.com/)
+I was able to deploy this project using Heroku. Please feel free to find my website [here](https://shielded-dawn-72095.herokuapp.com/)
 
 ## Questions
 If your have any questions about the project please feel free to contact me through github.
