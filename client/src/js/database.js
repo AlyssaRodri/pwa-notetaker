@@ -20,7 +20,7 @@ export const putDb = async (content) => {
   const jateDB = await openDB('jate', 1);
 
   // Now create a variable for the transaction
-  const tx = jateDb.transaction('jate', 'readwrite');
+  const tx = jateDB.transaction('jate', 'readwrite');
 
   // Now create a variable for the store
   const store = tx.objectStore('jate');
@@ -42,7 +42,7 @@ export const getDb = async () => {
   const jateDB = await openDB('jate', 1);
 
   // Now create a variable for the transaction
-  const tx = jateDb.transaction('jate', 'readwrite');
+  const tx = jateDB.transaction('jate', 'readwrite');
 
   // Now create a variable for the store
   const store = tx.objectStore('jate');
