@@ -1,7 +1,5 @@
 ### PWA Note Taker
 
-## Description
-
 ## Table of Contents
 - Objectives
 - Installation
